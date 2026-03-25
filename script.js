@@ -85,7 +85,6 @@ const ANSWER_KEYS = {
     "444792599":{"correctAnswerId":"4","subject":"Chemistry"},
     "444792600":{"correctAnswerId":"111","subject":"Chemistry"}
   },
-{
   "2026-01-21-S1": {
     "8606541126": {"correctAnswerId": "8606543827", "subject": "Mathematics"},
     "8606541127": {"correctAnswerId": "8606543832", "subject": "Mathematics"},
@@ -165,7 +164,6 @@ const ANSWER_KEYS = {
     "8606541199": {"correctAnswerId": "6", "subject": "Chemistry"},
     "8606541200": {"correctAnswerId": "8", "subject": "Chemistry"}
   }
-}
 };
 
 // event listeners - ensure DOM ready
